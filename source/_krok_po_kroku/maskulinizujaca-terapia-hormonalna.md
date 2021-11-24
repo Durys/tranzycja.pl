@@ -10,7 +10,7 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 ## Jakich efektów możesz się spodziewać
 
 :::spoiler Skrócony opis zmian razem ze spodziewanym okresem ich zajścia można znaleźć w tabelce opracowanej przez WPATH:
-![](https://i.imgur.com/mcDpCrf.png)
+![Tabelka zmian dotyczących terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizajaca-terapia-efekty.png)
 
 | Kolor | Rodzaj zmian |
 | -------- | -------- |
@@ -18,7 +18,7 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 | Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
 | Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
 | Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
-::::
+:::
 
 #### Zmiany psychologiczne 
 
@@ -41,14 +41,12 @@ Ilustracje przedstawiające przykładowy wygląd zmian łechtaczki można znale�
 
 Dystrybucja tkanki tłuszczowej w ciele będzie zmieniać się z typowo kobiecej (tłuszcz na pośladkach i biodrach) w stronę typowo męskiej (tłuszcz na brzuchu). Będzie miało to przełożenie na zmianę całości sylwetki, w tym zmniejszenie wcięcia w talii. Są to jedne z wolniej zachodzących zmian i najczęściej wymagają dłuższego czasu, by móc zaobserwować ich efekty, szczególnie u szczuplejszych osób. Przyjmuje się, że po upływie około 3-5 lat możemy mówić o dojściu do końcowego stanu. W przyśpieszeniu zachodzenia zmian w obrębie sylwetki pomagać mogą regularne ćwiczenia.
 
+
 ::: spoiler Dane dotyczące zmian w tkance tłuszczowej po 12 miesiącach maskulinizującej terapii hormonalnej
 
-![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://i.imgur.com/jsAINqr.png)
+![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna-1.png)
 
-(https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna-1.png)
-![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://i.imgur.com/BXJ9WTW.png)
-
-(https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna-2.png)
+![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna-2.png)
 
 Beztłuszczowa masa ciała to określenie na wszystko, co nie jest masą tłuszczową, więc między innymi kości, ścięgna, czy mięśnie. 
 WHR - ang. *waist-hip ratio*, stosunek obwodu talii do obwodu bioder.
@@ -71,7 +69,8 @@ Dotyczy to też zarostu, który jednak przeważnie rośnie znacząco wolniej ni�
 Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć rozwój zarostu[^3], zarówno przed rozpoczęciem terapii hormonalnej[^4] jak i w jej trakcie.[^5] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwalym użyciu (ponad 12 miesięcy) przełożyć się na bardziej gęsty zarost. Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka).
 
 :::spoiler Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
-![Zdjęcia włosów na brodzie](https://i.imgur.com/CYr6CFB.jpg)
+![Zdjęcia włosów na brodzie]
+(https://tranzycja.pl/media/img/efekty-minoksydylu.jpg)
 Źródło: *Case Report: Successful Use of Minoxidil to Promote Facial Hair Growth in an Adolescent Transgender Male*, Kenneth C. Pang, Thomas P. Nguyen, Rita Upreti, 2021
 :::
 
