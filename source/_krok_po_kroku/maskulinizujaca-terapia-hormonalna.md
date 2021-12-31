@@ -66,11 +66,18 @@ Włosy na ciele mogą zacząć rosnąć… wszędzie. Jest to częsty powód zas
 
 Dotyczy to też zarostu, który jednak przeważnie rośnie znacząco wolniej niż owłosienie reszty ciała. W pierwszych kilku-kilkunastu miesiącach najczęściej przybiera postać wąsa oraz meszku na brodzie. W dłuższej, wieloletniej perspektywie czasowej może rozwinąć się w okazałą brodę, choć ponownie występuje znacząca różnorodność efektów między różnymi osobami. 
 
-Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć rozwój zarostu[^3], zarówno przed rozpoczęciem terapii hormonalnej[^4] jak i w jej trakcie.[^5] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwalym użyciu (ponad 12 miesięcy) przełożyć się na bardziej gęsty zarost. Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka).
+Osoby chcące przyśpieszyć rozwój zarostu mogą korzystać z preparatów zawierających minoksydyl.
+
+:::spoiler Informacje na temat stosowania  minoksydylu i jego efektów
+
+Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć na rozwój zarostu.[^3] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwałym użyciu przełożyć się na bardziej gęsty zarost. Informacje dotyczące trwałości zarostu po odstawieniu minoksydylu są ograniczone — nie było to badane, a anegdotyczne dane mówią zarówno o wypadaniu, jak i utrzymaniu się nowych włosów przy stosowaniu dłuższym niż 12 miesięcy. Gęstsze włosy mogą pojawiać się również w innych częściach ciała, poza miejscem aplikacji.
+
+Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka). Minoksydyl również powodować lekki spadek ciśnienia krwi, ale może to stanowić problem tylko dla osób już mających problemy na tym tle. Minoksydyl jest wysoce toksyczny dla zwierząt i przy przypadkowej konsumpcji (zlizanie z twarzy, czy z poduszki) może być dla nich śmiertelny: posiadacze zwierzaków powinni zachować daleko idącą ostrożność w tym zakresie.
+
+Minoksydyl najlepsze efekty przyniesie po rozpoczęciu terapii hormonalnej. Stosowany przed testosteronem również spowoduje wzrost włosów[^4], ale będą one miały postać meszku i ciemniejszych włosków i nie rozwiną się w pełną brodę. Dla części osób może to być nadal pożądane, ze względu na polepszenie passingu. Efekty stosowania minoksydylu przed testosteronem można obejrzeć na zdjęciach poniżej lub wyszukując w Internecie frazy kluczowe „minoxidil pre-T". Włosy uzyskane w ten sposób nie są trwałe, więc po zaprzestaniu leczenia powinny z czasem wypaść.
 
 :::spoiler Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
-![Zdjęcia włosów na brodzie]
-(https://tranzycja.pl/media/img/efekty-minoksydylu.jpg)
+![Zdjęcia włosów na brodzie](https://i.imgur.com/CYr6CFB.jpg)
 Źródło: *Case Report: Successful Use of Minoxidil to Promote Facial Hair Growth in an Adolescent Transgender Male*, Kenneth C. Pang, Thomas P. Nguyen, Rita Upreti, 2021
 :::
 
